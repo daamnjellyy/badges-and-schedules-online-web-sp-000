@@ -1,5 +1,5 @@
 # Write your code here.
-names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-names.each do |name|
+badge_maker = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+badge_maker.each do |name|
   puts "Hello, my name is #{name}."
 end
