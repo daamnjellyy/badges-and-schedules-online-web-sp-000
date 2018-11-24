@@ -1,5 +1,5 @@
 # Write your code here.
-name = []
-name.each do |name|
+names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+names.each do |name|
   puts "Hello, my name is #{name}."
 end
